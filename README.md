@@ -5,15 +5,16 @@
 * Kent Beck, Implementation Patterns, Addison-Wesley Professional, 2007 （陳錦輝，Kent Beck的實作模式，博碩，2013）
 
 # To Be Read
+* R. C. Martin, The Clean Coder: A Code of Conduct for Professional Programmers, Pearson Education, 2011 （無瑕的程式碼 番外篇：專業程式設計師的生存之道，博碩，2013）
 * R. C. Martin, Clean Architecture - A Craftsman's Guide to Software Structure and Design, Prentice Hall, 2017 （林欣穎，無暇的程式碼 - 整潔的軟體設計與架構篇，博碩，2018）
 * J, Knapp, J. Zeratsky, Branden Kowitz, Sprint - How to Solve Big Problems and Test New Ideas in Just 5 Days, Simon & Schuster, 2016 （許瑞宋，Google創投認證！SPRINT衝刺計畫，時報出版，2016）
 * 龔正、吳治輝、葉夥榮、張龍春，Kubernetes權威指南 - 從Docker到Kubernetes實踐全接觸，電子業出版社，2017
 * G. Fairbanks, Just Enough Software Architecture - A Risk-driven Approach, , 2018（张逸、倪健，恰如其分的軟件架構：風險驅動的設計方法，華中科技大學出版社，2018）
 * B. Beyer, J. Petoff, C. Jone, N. Murphy, Site Reliability Engineering, O'REILLY, 2016 （孫宇聰，網站可靠性工程：Google的系統管理之道，碁峯，2017）
 
-
 * R. Osherove, The Art of Unit Testing: with examples in C# Second Edition, Baker & Taylor Books, 2013 （陳仕傑(91)，單元測試的藝術 [第二版]，博碩，2017）
-* The Clean Coder
+
+
 * 四人幫
 * Kanban in Action
 * 敏捷與scrum 軟體開發速成
