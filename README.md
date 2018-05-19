@@ -16,3 +16,17 @@
 
 # Before
 * C. Walls, Spring in Action, Manning, 2016（張衛濱，Spring 實戰，第四版，人民郵電出版社，2016）
+
+* 萬萬沒想到
+* 用一天說歷史
+* 有效管理scrum團隊
+* Kent Beck的實作模式
+* Java 8 實戰
+* 網站可靠性工程
+* 單元測試的藝術
+* The Clean Coder
+* Clean Code
+* 四人幫
+* Kanban in Action
+* Essential Scrum
+* 敏捷與scrum 軟體開發速成
