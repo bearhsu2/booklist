@@ -19,14 +19,23 @@
 
 * 萬萬沒想到
 * 用一天說歷史
+* Clean Code
+* Essential Scrum
+* Continuous Delivery
+
+
 * 有效管理scrum團隊
 * Kent Beck的實作模式
 * Java 8 實戰
 * 網站可靠性工程
 * 單元測試的藝術
 * The Clean Coder
-* Clean Code
+
+
 * 四人幫
 * Kanban in Action
-* Essential Scrum
+
 * 敏捷與scrum 軟體開發速成
+
+* Refactor
+* Exception handling Teddt Chen
