@@ -4,7 +4,7 @@
 * R. C. Martin, Clean Architecture - A Craftsman's Guide to Software Structure and Design, Prentice Hall, 2017 （林欣穎，無暇的程式碼 - 整潔的軟體設計與架構篇，博碩，2018）
 * J, Knapp, J. Zeratsky, Branden Kowitz, Sprint - How to Solve Big Problems and Test New Ideas in Just 5 Days, Simon & Schuster, 2016 （許瑞宋，Google創投認證！SPRINT衝刺計畫，時報出版）
 * 龔正、吳治輝、葉夥榮、張龍春，Kubernetes權威指南 - 從Docker到Kubernetes實踐全接觸，電子業出版社，2017
-* G. Fairbanks, Just Enough Software Architecture, 2018（张逸、倪健，恰如其分的軟件架構：風險驅動的設計方法，華中科技大學出版社，2018）
+* G. Fairbanks, Just Enough Software Architecture - A Risk-driven Approach, 2018（张逸、倪健，恰如其分的軟件架構：風險驅動的設計方法，華中科技大學出版社，2018）
  
 
 
