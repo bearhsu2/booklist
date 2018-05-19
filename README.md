@@ -1,5 +1,5 @@
 # Reading
-* C. Walls, Spring Boot in Action, Manning, 2016 （丁雪丰，Spring Boot 實戰，人民郵電出版社，2016）
+* C. Walls, Spring Boot in Action, Manning, 2016 （丁雪丰，Spring Boot實戰，人民郵電出版社，2016）
 * J. Visser, Building Maintainable Software - Ten Guidelines for Future-Proof Code, O'REILLY, 2017 （楊仁和，打造可維護軟體 - Java版，碁峯，2017）
 
 # To Be Read
@@ -15,11 +15,10 @@
 * D. H. Hoover, A. Oshineye, Apprenticeship Patterns - Guidance for the Aspiring Software Craftsman, O'REILLY, 2011 （莊弘祥，學徒模式 - 優秀軟體開發者的養成之路，2011）
 
 # Before
-* C. Walls, Spring in Action, Manning, 2016（張衛濱，Spring 實戰，第四版，人民郵電出版社，2016）
-
-* 萬萬沒想到
-* 用一天說歷史
-* Clean Code
+* C. Walls, Spring in Action, Manning, 2016（張衛濱，Spring實戰，第四版，人民郵電出版社，2016）
+* 萬維鋼，萬萬沒想到：用理工科思維理解世界，新視野NewVision，2017
+* Greg Jenner, A Million Years in a Day: A Curious History of Everyday Life, Thomas Dunne Books, 2016（楊惠君，用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年，馬可孛羅，2016）
+* R. C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship, Prentice Hall, 2008 (戴于晉，無瑕的程式碼－敏捷軟體開發技巧守則，博碩文化，2013) 
 * Essential Scrum
 * Continuous Delivery
 
