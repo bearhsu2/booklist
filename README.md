@@ -1,6 +1,7 @@
 # Reading
 * C. Walls, Spring Boot in Action, Manning, 2016 （丁雪丰，Spring Boot實戰，人民郵電出版社，2016）
 * J. Visser, Building Maintainable Software - Ten Guidelines for Future-Proof Code, O'REILLY, 2017 （楊仁和，打造可維護軟體 - Java版，碁峯，2017）
+* Kent Beck, Implementation Patterns, Addison-Wesley Professional, 2007 （陳錦輝，Kent Beck的實作模式，博碩，2013）
 
 # To Be Read
 * R. C. Martin, Clean Architecture - A Craftsman's Guide to Software Structure and Design, Prentice Hall, 2017 （林欣穎，無暇的程式碼 - 整潔的軟體設計與架構篇，博碩，2018）
@@ -11,7 +12,7 @@
 
 
 
-* Kent Beck的實作模式
+
 * Java 8 實戰
 * 網站可靠性工程
 * 單元測試的藝術
