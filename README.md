@@ -13,9 +13,9 @@
 * B. Beyer, J. Petoff, C. Jone, N. Murphy, Site Reliability Engineering, O'REILLY, 2016 （孫宇聰，網站可靠性工程：Google的系統管理之道，碁峯，2017）
 * R. Osherove, The Art of Unit Testing: with examples in C# Second Edition, Baker & Taylor Books, 2013 （陳仕傑(91)，單元測試的藝術 [第二版]，博碩，2017）
 * E. Freeman, E. Freeman, B. Bates, K. Sierra, O'REILLY, 2004（蔡學鏞，深入淺出－設計模式，歐萊禮，2005）
+* Marcus Hammarberg, Joakim Sundén, Kanban in Action, Manning, 2014 （霍金健、何勉、程鳴，看板實戰：用一張便利貼訓練出100分高效率工作團隊，博碩，2017）
 
 
-* Kanban in Action
 * 敏捷與scrum 軟體開發速成
 * Refactor
 * Exception handling Teddt Chen
