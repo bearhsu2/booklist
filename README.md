@@ -12,7 +12,7 @@
 * B. Beyer, J. Petoff, C. Jone, N. Murphy, Site Reliability Engineering, O'REILLY, 2016 （孫宇聰，網站可靠性工程：Google的系統管理之道，碁峯，2017）
 
 
-* 單元測試的藝術
+* R. Osherove, The Art of Unit Testing: with examples in C# Second Edition, Baker & Taylor Books, 2013 （陳仕傑(91)，單元測試的藝術 [第二版]，博碩，2017）
 * The Clean Coder
 * 四人幫
 * Kanban in Action
