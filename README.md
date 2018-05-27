@@ -1,7 +1,7 @@
 # Reading
+* J. Visser, Building Maintainable Software - Ten Guidelines for Future-Proof Code, O'REILLY, 2017 （楊仁和，打造可維護軟體 - Java版，碁峯，2017）
 * R. Urma, M. Fusco, A. Mycroft, Java 8 in Action, Manning, 2014 （陸明剛、勞佳，Java 8 實戰，人民郵電出版社，2016）
 * C. Walls, Spring Boot in Action, Manning, 2016 （丁雪丰，Spring Boot實戰，人民郵電出版社，2016）
-* J. Visser, Building Maintainable Software - Ten Guidelines for Future-Proof Code, O'REILLY, 2017 （楊仁和，打造可維護軟體 - Java版，碁峯，2017）
 * K. Beck, Implementation Patterns, Addison-Wesley Professional, 2007 （陳錦輝，Kent Beck的實作模式，博碩，2013）
 
 # To Be Read
