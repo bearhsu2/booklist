@@ -1,8 +1,10 @@
 # Reading
 
+* S. Rose, M. Wynne, A. Hellesøy, The Cucumber For Java Book, Pragmatic Bookshelf, 2015
+* K. Beck, Implementation Patterns, Addison-Wesley Professional, 2007 （陳錦輝，Kent Beck的實作模式，博碩，2013）
 * R. Urma, M. Fusco, A. Mycroft, Java 8 in Action, Manning, 2014 （陸明剛、勞佳，Java 8 實戰，人民郵電出版社，2016）
 * C. Walls, Spring Boot in Action, Manning, 2016 （丁雪丰，Spring Boot實戰，人民郵電出版社，2016）
-* K. Beck, Implementation Patterns, Addison-Wesley Professional, 2007 （陳錦輝，Kent Beck的實作模式，博碩，2013）
+
 
 # To Be Read
 * R. C. Martin, The Clean Coder: A Code of Conduct for Professional Programmers, Pearson Education, 2011 （無瑕的程式碼 番外篇：專業程式設計師的生存之道，博碩，2013）
