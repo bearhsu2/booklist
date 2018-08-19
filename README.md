@@ -1,13 +1,13 @@
 # Reading
-
 * S. Rose, M. Wynne, A. Hellesøy, The Cucumber For Java Book, Pragmatic Bookshelf, 2015
 * K. Beck, Implementation Patterns, Addison-Wesley Professional, 2007 （陳錦輝，Kent Beck的實作模式，博碩，2013）
 * R. Urma, M. Fusco, A. Mycroft, Java 8 in Action, Manning, 2014 （陸明剛、勞佳，Java 8 實戰，人民郵電出版社，2016）
 * C. Walls, Spring Boot in Action, Manning, 2016 （丁雪丰，Spring Boot實戰，人民郵電出版社，2016）
+* 朱為民，預約。好好告別：人生最後的期末考，讓我們好好說再見，四塊玉文創，2017
+
 
 
 # To Be Read
-* R. C. Martin, The Clean Coder: A Code of Conduct for Professional Programmers, Pearson Education, 2011 （無瑕的程式碼 番外篇：專業程式設計師的生存之道，博碩，2013）
 * J, Knapp, J. Zeratsky, Branden Kowitz, Sprint - How to Solve Big Problems and Test New Ideas in Just 5 Days, Simon & Schuster, 2016 （許瑞宋，Google創投認證！SPRINT衝刺計畫，時報出版，2016）
 * R. C. Martin, Clean Architecture - A Craftsman's Guide to Software Structure and Design, Prentice Hall, 2017 （林欣穎，無暇的程式碼 - 整潔的軟體設計與架構篇，博碩，2018）
 * 龔正、吳治輝、葉夥榮、張龍春，Kubernetes權威指南 - 從Docker到Kubernetes實踐全接觸，電子工業出版社，2017
@@ -21,6 +21,9 @@
 * 陳建村，笑談軟體工程：例外處理設計的逆襲，悅知文化，2014
 * E. Freeman, E. Freeman, B. Bates, K. Sierra, O'REILLY, 2004（蔡學鏞，深入淺出－設計模式，歐萊禮，2005）
 
+
+# August 2018
+* R. C. Martin, The Clean Coder: A Code of Conduct for Professional Programmers, Pearson Education, 2011 （無瑕的程式碼 番外篇：專業程式設計師的生存之道，博碩，2013）
 
 # July 2018
 * J. Visser, Building Maintainable Software - Ten Guidelines for Future-Proof Code, O'REILLY, 2017 （楊仁和，打造可維護軟體 - Java版，碁峯，2017）
